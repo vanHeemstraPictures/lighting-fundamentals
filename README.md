@@ -23,7 +23,7 @@ Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.y
 
 Imagine the position on a clock at 6.
 
-### The Subject is Always in the Center of the Clock
+### The Subject is Always at the Center of the Clock
 
 Imagine the position on a clock where the dials are attached at, the center.
 
