@@ -49,6 +49,8 @@ Imagine the position on a clock at 2 (lighting from right) or 10 (lighting from 
 
 ***NOTE***: This position will cause the shadow from the Nose to reach the Lip Line, which is considered aesthetically pleasing.
 
+See [Shadow from the Nose reaches the Lip Line](/Shadow_from_the_Nose_reaches_the_Lip_Line.png)
+
 ## The Compass
 
 Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.youtube.com/watch?v=vTiQ1bqcK3E
