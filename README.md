@@ -21,12 +21,19 @@ Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.y
 
 ### The Camera is Always at Position of 6 O'Clock
 
+Imagine the position on a clock at 6.
+
 ### The Subject is Always in the Center of the Clock
+
+Imagine the position on a clock where the dials are attached at, the center.
 
 ### The 180 Degrees BEHIND the Subject is the Dark Zone
 
+Imagine the area on a clock of 9 to 3.
+
 ### The 180 Degrees IN FRONT OF the Subject is the Hot Zone
 
+Imagine the area on a clock of 3 to 9.
 
 ## The Compass
 
