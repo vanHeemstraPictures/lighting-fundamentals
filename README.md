@@ -57,6 +57,12 @@ Imagine the position on a clock at 10 (lighting from right) or 2 (lighting from 
 
 The purpose of the Rim Light is to separate the Subject from the Background.
 
+### The Position of the Fill Light (the Tertiary Light Source) is (Always) at Position of 8 or 4 O'Clock
+
+Imagine the position on a clock at 8 (lighting from right) or 4 (lighting from left).
+
+The purpose of the Fill Light is to compensate for (too deep) Shadows on the Subject.
+
 ## The Compass
 
 Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.youtube.com/watch?v=vTiQ1bqcK3E
