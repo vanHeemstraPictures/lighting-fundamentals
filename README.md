@@ -41,6 +41,12 @@ Imagine the area on a clock of 3 to 9.
 
 Imagine the position on a clock at 4 (lighting from right) or 8 (lighting from left).
 
+#### The Position of the Iris Highlight is (Always) at Position 2 or 10 O'Clock
+
+See [Two O'Clock Position of Iris Highlight](/Two_O_Clock_Position_of_Iris_Highlight.png)
+
+Imagine the position on a clock at 2 (lighting from right) or 10 (lighting from left).
+
 ## The Compass
 
 Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.youtube.com/watch?v=vTiQ1bqcK3E
