@@ -37,9 +37,9 @@ Imagine the area on a clock of 9 to 3.
 
 Imagine the area on a clock of 3 to 9.
 
-### The Position of the Key Light (the Main Light Source) is (Always) at Position of 4 O'Clock
+### The Position of the Key Light (the Main Light Source) is (Always) at Position of 4 or 8 O'Clock
 
-Imagine the position on a clock at 4.
+Imagine the position on a clock at 4 (lighting from right) or 8 (lighting from left).
 
 ## The Compass
 
