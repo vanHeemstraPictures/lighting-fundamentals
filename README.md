@@ -19,6 +19,8 @@ Based on 'The Basics of Studio Lighting with Elinchrom Part 1' at https://www.yo
 
 Based on 'The Clock and Compass: Master the Basics of Lighting' at https://www.youtube.com/watch?v=vTiQ1bqcK3E
 
+See [Clock and Zones](/Clock_and_Zones.png)
+
 ### The Camera is Always at Position of 6 O'Clock
 
 Imagine the position on a clock at 6.
