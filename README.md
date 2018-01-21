@@ -51,9 +51,9 @@ Imagine the position on a clock at 2 (lighting from right) or 10 (lighting from 
 
 See [Shadow from the Nose reaches the Lip Line](/Shadow_from_the_Nose_reaches_the_Lip_Line.png)
 
-### The Position of the Rim Light (the Secondary Light Source) is (Always) at Position of 10 or 2 O'Clock
+### The Position of the Rim Light (the Secondary Light Source) is (Always) at Position of 11 or 1 O'Clock
 
-Imagine the position on a clock at 10 (lighting from right) or 2 (lighting from left).
+Imagine the position on a clock at 11 (lighting from right) or 1 (lighting from left).
 
 The purpose of the Rim Light is to separate the Subject from the Background.
 
